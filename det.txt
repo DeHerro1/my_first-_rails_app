@@ -1,0 +1,7 @@
+awal@awal-VirtualBox:~$ Is
+Is: command not found
+awal@awal-VirtualBox:~$ is
+is: command not found
+awal@awal-VirtualBox:~$ Is
+Is: command not found
+awal@awal-VirtualBox:~$ 

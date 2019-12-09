@@ -1,0 +1,4 @@
+[2019-12-05 20:49:38.141] [main] [info] update#setState idle
+[2019-12-05 20:50:08.207] [main] [info] update#setState checking for updates
+[2019-12-05 20:50:08.222] [main] [error] Error: net::ERR_NAME_RESOLUTION_FAILED
+[2019-12-05 20:50:08.222] [main] [info] update#setState idle
