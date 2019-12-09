@@ -93,3 +93,7 @@ ERROR:dbus.proxies:Introspect error on org.bluez:/: dbus.exceptions.DBusExceptio
 (xfwm4:1061): xfwm4-WARNING **: 07:58:37.740: output size (640x480) and logical screen size (634x694) do not match
 
 (xfwm4:1061): xfwm4-WARNING **: 07:58:45.008: output size (634x694) and logical screen size (640x480) do not match
+[Parent 24205, Gecko_IOThread] WARNING: pipe error (122): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 24205, Gecko_IOThread] WARNING: pipe error (58): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+(/usr/lib/firefox/firefox:24950): dconf-WARNING **: 08:58:51.520: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
