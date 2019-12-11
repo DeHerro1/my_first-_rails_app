@@ -1,8 +1,13 @@
 {
     "telemetry.machineId": "59d71081c85ec70e489bcf5da4ef6ab4341bacd331b114457b7dc5f8deb4f4e7",
     "openedPathsList": {
-        "workspaces3": [],
-        "files2": []
+        "workspaces3": [
+            "file:///home/awal",
+            "file:///home/awal/odin_on_rails/my_first_rails_app"
+        ],
+        "files2": [
+            "file:///home/awal/.gemfile"
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -39,6 +44,46 @@
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
                                     "label": "&&Reopen Closed Editor"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "fsPath": "/home/awal",
+                                        "external": "file:///home/awal",
+                                        "path": "/home/awal",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/awal"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/awal/odin_on_rails/my_first_rails_app",
+                                        "path": "/home/awal/odin_on_rails/my_first_rails_app",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/odin_on_rails/my_first_rails_app"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/awal/.gemfile",
+                                        "path": "/home/awal/.gemfile",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.gemfile"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -152,8 +197,7 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder",
-                        "enabled": false
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -346,7 +390,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar"
+                                    "label": "Show &&Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -1370,12 +1415,13 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/awal/.config/Code/Backups/1575578978892",
+            "folder": "file:///home/awal",
+            "backupPath": "/home/awal/.config/Code/Backups/785390bfdb5d0bc68bb87c916d01bd9e",
             "uiState": {
-                "mode": 1,
-                "x": 126,
+                "mode": 0,
+                "x": 0,
                 "y": 49,
-                "width": 1024,
+                "width": 634,
                 "height": 653
             }
         },

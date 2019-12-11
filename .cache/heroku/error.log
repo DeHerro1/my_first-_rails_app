@@ -1,0 +1,9 @@
+2019-12-09T11:42:10.486Z Error: Missing required flag:
+2019-12-09T11:42:10.486Z  -a, --app APP  app to run command against
+2019-12-09T11:42:10.486Z See more help with --help
+2019-12-09T11:42:10.486Z     at validateFlags (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/validate.js:53:27)
+2019-12-09T11:42:10.486Z     at Object.validate (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/validate.js:58:5)
+2019-12-09T11:42:10.486Z     at Object.parse (/usr/local/lib/heroku/node_modules/@oclif/parser/lib/index.js:26:7)
+2019-12-09T11:42:10.486Z     at Set.parse (/usr/local/lib/heroku/node_modules/@oclif/command/lib/command.js:83:41)
+2019-12-09T11:42:10.486Z     at Set.run (/usr/local/lib/heroku/node_modules/@heroku-cli/plugin-buildpacks/lib/commands/buildpacks/set.js:7:36)
+2019-12-09T11:42:10.486Z     at Set._run (/usr/local/lib/heroku/node_modules/@oclif/command/lib/command.js:44:31)

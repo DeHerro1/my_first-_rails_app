@@ -99,4 +99,74 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/awal/odin_on_rails/my_first_rails_app/gemfile" added="2019-12-09T11:29:18Z" modified="2019-12-09T11:29:18Z" visited="2019-12-09T11:29:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-09T11:29:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///.gitignore" added="2019-12-11T09:51:25Z" modified="2019-12-11T09:52:13Z" visited="2019-12-11T09:51:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-11T09:52:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///gitignore" added="2019-12-11T09:52:37Z" modified="2019-12-11T09:52:37Z" visited="2019-12-11T09:52:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-11T09:52:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///ignore" added="2019-12-11T09:54:28Z" modified="2019-12-11T09:54:28Z" visited="2019-12-11T09:54:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-11T09:54:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mine" added="2019-12-11T09:55:13Z" modified="2019-12-11T09:55:13Z" visited="2019-12-11T09:55:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-11T09:55:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/awal/gitig" added="2019-12-11T09:56:55Z" modified="2019-12-11T09:56:55Z" visited="2019-12-11T09:56:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-11T09:56:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/awal/gitignore" added="2019-12-11T09:57:11Z" modified="2019-12-11T09:57:11Z" visited="2019-12-11T09:57:11.315276Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-11T09:57:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
